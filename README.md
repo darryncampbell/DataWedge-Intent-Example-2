@@ -1,3 +1,5 @@
+## This repository is out of date - please refer to the updated 'getting started' guide at [https://github.com/darryncampbell/DataWedge-GettingStarted-Samples](https://github.com/darryncampbell/DataWedge-GettingStarted-Samples) 
+
 # DataWedge Intent Example 2
 This application shows the basic principles of how to control DataWedge via the [DataWedge Intent API](http://techdocs.zebra.com/datawedge/6-6/guide/api/).  
 
